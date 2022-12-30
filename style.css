@@ -104,6 +104,13 @@ input, label {
 input {
     border: 0.1rem solid #E5E7EB;
     border-style: solid;
+    border-radius: 0.1rem;
+}
+
+input:focus {
+    outline: none;
+    border: 0.1rem solid #699bff;
+    border-style: solid;
 }
 
 label {
