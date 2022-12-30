@@ -129,3 +129,9 @@ button {
     border-radius: 0.5rem;
     box-shadow: 0.25rem 0.25rem 0.5rem rgb(200, 200, 200);
 }
+
+a {
+    font-weight: bold;
+    color: #1b54c7;
+    text-decoration: none;
+}
